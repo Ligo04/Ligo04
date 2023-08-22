@@ -3,7 +3,7 @@
 
 - 🌱 A cg student in the ShenZhen University.
 
-- 🎮 Interested in Gameplay, Game Engine and Computer Graphics,including rendering and simulation
+- 🎮 Interested in Gameplay, Game Engine and Computer Graphics,including rendering and simulation, 3D AIGC
 
 - ⚡ I have a blog at https://www.cnblogs.com/Ligo-Z/
 
