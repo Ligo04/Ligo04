@@ -7,7 +7,7 @@
 
 - ⚡ I have a blog at https://www.cnblogs.com/Ligo-Z/
 
-## Some of my Github Stats
+## My Github Stats
 [![Ligo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ligo04&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ligo04&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
