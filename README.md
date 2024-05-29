@@ -11,6 +11,8 @@
 [![Ligo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ligo04&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ligo04&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+
 <!--
 **Ligo04/Ligo04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
