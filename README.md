@@ -1,9 +1,9 @@
 # Hello! 👋
 ### I am Ligo 
 
-- 🌱 A cg student in the ShenZhen University.
+- 🌱 A cg student at Shenzhen University.
 
-- 🎮 Interested in  Computer Graphics, Game Engine and GamePlay,including real-time (differentiable) rendering and simulation, 3D AIGC
+- 🎮 Interested in  Computer Graphics, Game Engines and GamePlay, including real-time (differentiable) rendering, simulation, And Animation
 
 - ⚡ I have a blog at https://www.cnblogs.com/Ligo-Z/
 
